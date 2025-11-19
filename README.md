@@ -93,5 +93,6 @@ This will open the application in your default web browser at http://localhost:8
 
 ## Authors
 
-- Vaibhav Mahore
 - Vismita Tej
+- Vaibhav Mahore
+
